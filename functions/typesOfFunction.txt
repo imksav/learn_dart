@@ -1,0 +1,8 @@
+============================================
+            Types of Functions
+============================================
+=   1. No return type and no parameter      =
+=   2. No return type but parameter         =
+=   3. Return type but no parameter         =
+=   4. Return type and parameter            =
+============================================
